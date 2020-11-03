@@ -8,4 +8,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin-Aaaquil&show_icons=true)
 
-![Profile views](https://gpvc.arturio.dev/Kevin-Aaaquil
+
