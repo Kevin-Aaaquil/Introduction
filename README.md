@@ -1,4 +1,4 @@
-## I crash everytime I try to Debug my life :grinning: :wink:
+## I crash everytime I try to Debug my life 💀 🤡
 
 * I am a **CSE Student**
 * Trying to **Learn** And **Explore** the world of **TECH**
