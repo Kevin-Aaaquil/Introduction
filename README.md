@@ -13,7 +13,7 @@
 <a href="#"><img width="40px" title="Java" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/with-images/.github/Java.svg"/></a>
 <a href="#"><img width="40px" title="JavaScript" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/with-images/.github/JavaScript.svg"/></a>
 <a href="#"><img width="40px" title="Node.js" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/with-images/.github/Node-js.svg"/></a>
-<a href="#"><img width="40px" title="Github" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/with-images/.github/Github.svg"/></a>
+<a href="#"><img width="40px" title="Github" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/with-images/.github/Gituhub.svg"/></a>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin-Aaaquil&show_icons=true&theme=radical&count_private=true)</br>
