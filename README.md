@@ -12,7 +12,9 @@
 
 ### Languages I know:
 
-<a href="#"><img width="22px" title="JavaScript" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" /></a> 
+<a href="#"><img width="40px" title="JavaScript" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" /></a>
+<a href="#"><img width="40px" title="JavaScript" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" /></a>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin-Aaaquil&show_icons=true&theme=radical&count_private=true)</br>
 
