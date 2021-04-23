@@ -10,7 +10,10 @@
 
 ### Wait a second...... I know these......
 
-<a href="#"><img width="40px" title="JavaScript" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/with-images/.github/JavaScript.svg"/></a>
+<a href="#"><img width="40px" title="Java" src=""/></a>
+<a href="#"><img width="40px" title="JavaScript" src=""/></a>
+<a href="#"><img width="40px" title="Node.js" src=""/></a>
+<a href="#"><img width="40px" title="Github" src=""/></a>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin-Aaaquil&show_icons=true&theme=radical&count_private=true)</br>
