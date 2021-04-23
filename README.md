@@ -15,7 +15,7 @@
 <a href="#"><img width="40px" title="Node.js" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/.github/Node-js.svg"/></a>
 <a href="#"><img width="40px" title="Github" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/.github/Gituhub.svg"/></a>
 
-## My Stats
+## My Stats...
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin-Aaaquil&show_icons=true&theme=radical&count_private=true)</br>
