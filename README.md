@@ -2,8 +2,6 @@
 
 * I am a **CSE Student**
 * Trying to **Learn** And **Explore** the world of **TECH**
-* Codes in **JAVA** and **C++**
-* Next on Agenda => Learning **PYTHON** and **JavaScript**
 * Curious about **Pen Testing**
 * **Don't** make me choose between **Red Team** and **Blue Team**
 * Been **IN LOVE CODING** for 4 years
