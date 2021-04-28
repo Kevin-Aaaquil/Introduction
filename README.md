@@ -2,7 +2,7 @@
 
 * I am a **CSE Student**
 * Trying to **Learn** And **Explore** the world of **TECH**
-* Curious about **Pen Testing**
+* Curious about **Pen Testing & AI**
 * **Don't** make me choose between **Red Team** and **Blue Team**
 * Been **IN LOVE CODING** for 4 years
 * Made a Few Projects **(And Making Some More...)**
