@@ -15,6 +15,12 @@
 <a href="#"><img width="40px" title="Node.js" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/.github/Node-js.svg"/></a>
 <a href="#"><img width="40px" title="Github" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/.github/Gituhub.svg"/></a>
 
+## Planning/Hoping/Trying or currently Learning...
+
+<a href="#"><img width="40px" title="Python" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/.github/Pyhton.svg"/></a>
+<a href="#"><img width="40px" title="Python" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/.github/Typescript.svg"/></a>
+
+
 ## My Stats...
 
 
