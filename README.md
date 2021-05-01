@@ -18,7 +18,8 @@
 ## Planning/Hoping/Trying or currently Learning...
 
 <a href="#"><img width="40px" title="Python" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/.github/Pyhton.svg"/></a>
-<a href="#"><img width="40px" title="Python" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/.github/Typescript.svg"/></a>
+<a href="#"><img width="40px" title="Typecsript" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/.github/Typescript.svg"/></a>
+<a href="#"><img width="40px" title="Ruby" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/.github/Ruby.svg"/></a>
 
 
 ## My Stats...
