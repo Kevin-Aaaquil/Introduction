@@ -3,7 +3,7 @@
 * I am a **CSE Student**
 * Trying to **Learn** And **Explore** the world of **TECH**
 * **Curiosity killed the cat** is not something I ever understood
-* **Don't** make me choose between **Red Team** and **Blue Team** or **Books** and **Movies**
+* **Don't** make me choose between **Red Team & Blue Team** or **Books & Movies**
 * Been **IN LOVE CODING** for 4 years
 * Made a Few Projects **(And Making Some More...)**
 * Follow me on [Instagram](https://www.instagram.com/_eshan.singh_/) or on [LinkedIn](https://www.linkedin.com/in/eshan-singh-1985981b7/)</br>
