@@ -31,8 +31,8 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kevin-Aaaquil&theme=radical&count_private=true" alt="Kevin-Aaaquil" /></p>
-
-![Profile views](https://komarev.com/ghpvc/?username=Kevin-Aaaquil)
+  
+![Profile views](https://gpvc.arturio.dev/Kevin-Aaaquil)
 
 
 
