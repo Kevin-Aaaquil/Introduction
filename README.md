@@ -30,7 +30,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Aaaquil&theme=radical&count_private=true)</br>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riti-s&theme=radical&count_private=true" alt="riti-s" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kevin-Aaaquil&theme=radical&count_private=true" alt="Kevin-Aaaquil" /></p>
 
 ![Profile views](https://gpvc.arturio.dev/Kevin-Aaaquil)
 
