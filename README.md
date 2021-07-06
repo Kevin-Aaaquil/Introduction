@@ -12,8 +12,7 @@
 
 <a href="#"><img width="40px" title="Java" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/.github/Java.svg"/></a>
 <a href="#"><img width="40px" title="JavaScript" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/.github/JavaScript.svg"/></a>
-<!--<a href="#"><img width="40px" title="TypeScript" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/.github/Typescript.svg"/></a>-->
-<a href="#"><img width="40px" title="Java" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/.github/Java.svg"/></a>
+<a href="#"><img width="40px" title="TypeScript" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/.github/Typescript.svg"/></a>
 <a href="#"><img width="40px" title="Node.js" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/.github/Node-js.svg"/></a>
 <a href="#"><img width="40px" title="Github" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/.github/Gituhub.svg"/></a>
 <a href="#"><img width="40px" title="MongoDB" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/.github/MongoDB.svg"/><a>
