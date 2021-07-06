@@ -6,7 +6,7 @@
 * **Curiosity killed the cat** is not something I ever understood
 * **DONOT** make me choose between **Red Team & Blue Team** or **Books & Movies**
 * Made a Few Projects **(And Hoping To Make Some More...)**
-* Follow me on [Instagram](https://www.instagram.com/_eshan.singh_/) or on [LinkedIn](https://www.linkedin.com/in/eshan-singh-1985981b7/)</br>
+* Follow me on [Instagram](https://www.instagram.com/_eshan.singh_/) or on [LinkedIn](https://www.linkedin.com/in/-eshansingh)</br>
 
 ## Things I know
 
