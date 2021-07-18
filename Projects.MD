@@ -4,7 +4,7 @@
 ```
 https://shrinkky.herokuapp.com
 ```
-## * Storage-App ~ A cloud based Database that stores file bt converting it into binary format (not ideal for practical use) 
+## * Storage-App ~ A cloud based Database that stores file by converting it into binary format (not ideal for practical use) 
 `currently only in API format, no frontend`
 ```
 http://gccstorage.herokuapp.com/
