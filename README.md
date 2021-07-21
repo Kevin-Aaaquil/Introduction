@@ -1,11 +1,7 @@
 ## I crash everytime I try to Debug my life 💀 🤡
 
-* I am a **CSE Student**
-* Trying to **Learn** And **Explore** the world of **TECH**
-* **"Who doesn't like Dark Mode"** - My **personality** and my **Code Editor**
-* **Curiosity killed the cat** is not something I ever understood
-* **DONOT** make me choose between **Red Team & Blue Team** or **Books & Movies**
-* Made a Few Projects **(And Hoping To Make Some More...)**
+Just a regular out of the mill nerdy guy, minding his own business being a student in the day and a coder by the night.
+
 * Follow me on [Instagram](https://www.instagram.com/_eshan.singh_/) or on [LinkedIn](https://www.linkedin.com/in/-eshansingh)</br>
 * Email me on contacteshansingh@gmail.com
 
