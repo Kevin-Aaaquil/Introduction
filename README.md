@@ -22,8 +22,8 @@
 <a href="#"><img width="40px" title="VSCode" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/.github/Visual_Studio_Code.svg"/><a>
 <a href="#"><img width="40px" title="Arduino" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/.github/Arduino.svg"/><a>
 
-  ### If you wanna know about what I have worked on in more detail click [here](https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/Details.MD)
-  ### If you wanna know about the projects I have worked on click [here](https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/Projects.MD)
+  ### If you wanna know about what I have worked on in more detail click here [Details](https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/Details.MD)
+  ### If you wanna know about the projects I have worked on click here [Projects](https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/Projects.MD)
 
 ## My Stats...
 
