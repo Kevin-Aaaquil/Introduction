@@ -21,7 +21,7 @@
 <a href="#"><img width="40px" title="VSCode" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/.github/Visual_Studio_Code.svg"/><a>
 <a href="#"><img width="40px" title="Arduino" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/.github/Arduino.svg"/><a>
 
-
+  If you wanna know about what I have worked on in more detail click ![here](https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/Details.MD)
 
 ## My Stats...
 
