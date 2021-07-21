@@ -7,6 +7,7 @@
 * **DONOT** make me choose between **Red Team & Blue Team** or **Books & Movies**
 * Made a Few Projects **(And Hoping To Make Some More...)**
 * Follow me on [Instagram](https://www.instagram.com/_eshan.singh_/) or on [LinkedIn](https://www.linkedin.com/in/-eshansingh)</br>
+* Email me on contacteshansingh@gmail.com
 
 ## Things I know
 
