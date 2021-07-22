@@ -1,5 +1,7 @@
 # My Projects
 
+### To know more about the stacks I use click here [Details](https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/Details.MD)
+
 ## * Shrinky ~ A very basic url shortner 
 ```
 https://shrinkky.herokuapp.com
@@ -13,4 +15,3 @@ http://gccstorage.herokuapp.com/
 ```
 https://biocomsrm.org
 ```
-### To know more about the stacks I use click here [Details](https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/Details.MD)
