@@ -5,8 +5,7 @@
 * You are very clueless
 * You wanna know in detail about the stacks I have worked on
 
-## To know about my projects
-[click here](https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/Projects.MD)
+## To know about my projects click here [Projects](https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/Projects.MD)
 
 ## All languages and frameworks I have used
 * JavaScript
