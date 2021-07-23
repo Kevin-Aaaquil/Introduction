@@ -28,6 +28,6 @@
   * Backend    
   * Frontend    // I have only started on this recently as of 20-07-2021
 
-Note : Yes at current I am only doing web development but in the near future I will expand my scope
+Note : Yes at current I am only doing web development and sometimes making a discord bot but in the near future I will expand my scope
 
 ##### Please note that I might not edit this very regularly so if in doubt contact me at contacteshansingh@gmail.com
