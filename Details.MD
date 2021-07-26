@@ -1,4 +1,4 @@
-# This `.MD` file basically consists of all the things I have worked on
+# This `.MD` file basically consists of all the things I have worked with
 
 ## The reason you might be here
 * You are stalking me
