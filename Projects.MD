@@ -15,4 +15,8 @@ http://gccstorage.herokuapp.com/
 ```
 https://biocomsrm.org
 ```
+## * GameBot ~ A discord bot for playing trueth and dare, other games can be added
+```
+https://github.com/Kevin-Aaaquil/GameBot
+```
 ##### Please note that I might not edit this very regularly so if in doubt contact me at contacteshansingh@gmail.com
