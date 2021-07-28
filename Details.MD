@@ -19,7 +19,7 @@
 ## All services I Have used
 * MongoDB
 * AWS S3
-* AWS EC2
+* AWS DynamoDB
 * Discord.py && Discord.js
 
 
