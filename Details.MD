@@ -15,6 +15,12 @@
 * JAVA
 * C++
 * C
+## Packages I have used
+* Express
+* MongoDB
+* GraphQl
+* Typescript
+* AWS-SDK
 
 ## All services I Have used
 * MongoDB
