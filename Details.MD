@@ -13,6 +13,7 @@
 * React
 * Python
 * JAVA
+* Go Lang
 * C++
 * C
 ## Packages I have used
