@@ -1,6 +1,6 @@
 ## I crash everytime I try to Debug my life 💀
 
-Just a regular out of the mill nerdy guy :technologist:, minding his own business being a student :scroll: in the day :sunrise_over_mountains: and a coder :computer: by the night :night_with_stars:.
+Just a regular out of the mill nerdy guy :technologist: in the day :sunrise_over_mountains: and a coder :computer: by the night :night_with_stars:.
 
 * Follow me on [Instagram](https://www.instagram.com/_eshan.singh_/) or on [LinkedIn](https://www.linkedin.com/in/-eshansingh)</br>
 * Email me on contacteshansingh@gmail.com
