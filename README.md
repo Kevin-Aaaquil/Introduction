@@ -19,8 +19,7 @@ Just a regular out of the mill nerdy guy :technologist: in the day :sunrise_over
 <a href="#"><img width="40px" title="Arduino" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/.github/Arduino.svg"/><a>
 <a href="#"><img width="40px" title="GoLang" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/.github/GoLang.svg"/><a>
 
-  ### If you wanna know about what stacks I have worked with in more detail click here [Details](https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/Details.MD)
-  ### If you wanna know about the projects I have worked on click here [Projects](https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/Projects.MD)
+
 
 ## My Stats...
 
