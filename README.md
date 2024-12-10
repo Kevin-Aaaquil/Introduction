@@ -24,8 +24,6 @@ Just a regular out of the mill nerdy guy :technologist: in the day :sunrise_over
 ## My Stats...
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin-Aaaquil&show_icons=true&theme=radical&count_private=true)</br>
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Aaaquil&theme=radical&count_private=true)</br>
 
