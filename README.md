@@ -3,9 +3,9 @@
 Just a regular out of the mill nerdy guy :technologist: in the day :sunrise_over_mountains: and a coder :computer: by the night :night_with_stars:.
 
 * Follow me on [LinkedIn](https://www.linkedin.com/in/-eshansingh)</br>
-* Email me on contacteshansingh@gmail.com
+* Email me on me@eshansingh.net
 
-## Things I know
+<!-- ## Things I know
 
 <a href="#"><img width="40px" title="Java" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/.github/Java.svg"/></a>
 <a href="#"><img width="40px" title="JavaScript" src="https://github.com/Kevin-Aaaquil/Kevin-Aaaquil/blob/main/.github/JavaScript.svg"/></a>
@@ -28,7 +28,7 @@ Just a regular out of the mill nerdy guy :technologist: in the day :sunrise_over
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Aaaquil&theme=radical&count_private=true)</br>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kevin-Aaaquil&theme=radical&count_private=true" alt="Kevin-Aaaquil" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kevin-Aaaquil&theme=radical&count_private=true" alt="Kevin-Aaaquil" /></p> -->
   
 ![Profile views](https://komarev.com/ghpvc/?username=Kevin-Aaaquil&color=blueviolet)
 
